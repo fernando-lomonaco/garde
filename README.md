@@ -1,0 +1,1 @@
+[![Build status](https://dev.azure.com/fernandolomonaco/garde/_apis/build/status/PipeGarde)](https://dev.azure.com/fernandolomonaco/garde/_build/latest?definitionId=12)
