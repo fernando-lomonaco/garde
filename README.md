@@ -1,1 +1,2 @@
 [![Build status](https://dev.azure.com/fernandolomonaco/garde/_apis/build/status/PipeGarde)](https://dev.azure.com/fernandolomonaco/garde/_build/latest?definitionId=12)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=fernando-lomonaco_garde&metric=bugs)](https://sonarcloud.io/dashboard?id=fernando-lomonaco_garde)
